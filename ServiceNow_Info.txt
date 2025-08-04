@@ -1,0 +1,12 @@
+API Reference:
+Self-Help - ServiceNow API – Table Reference
+ServiceNow IT Service Management Suite
+ 
+Quick Start Guide
+Knowledge - Lilly Employee Center Portal
+Login - Lilly Employee Center Portal 
+ 
+Request to create ServiceNow Service Account and/or oAuth registration
+Request Integration with ServiceNow - Lilly Employee Center Portal
+Login - Lilly Employee Center Portal 
+
